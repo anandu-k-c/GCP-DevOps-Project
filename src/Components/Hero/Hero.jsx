@@ -10,8 +10,7 @@ const Hero = ({heroData,setHeroCount,heroCount,setPlayStatus,playStatus}) => {
         <div className="hero-text">
             <p>{heroData.text1}</p>
             <p>{heroData.text2}</p>
-        </div>        git remote remove GCP-Devops-Projetct        git remote remove GCP-Devops-Projetct        git remote remove GCP-Devops-Projetct
-
+        </div>
         <div className="hero-explore">
             <p>Explore the features</p>
             <img src={arrow_btn} alt="" />
